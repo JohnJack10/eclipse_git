@@ -4,5 +4,6 @@ public class test {
     	System.out.println("git_test");
     	System.out.println("git_test1");
     	System.out.println("git_test3");
+    	System.out.println("git_test3-eclipse");
     }
 }
